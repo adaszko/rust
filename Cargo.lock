@@ -3624,6 +3624,7 @@ dependencies = [
  "itertools",
  "jobserver",
  "libc",
+ "libloading",
  "object 0.28.4",
  "pathdiff",
  "regex",

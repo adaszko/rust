@@ -19,6 +19,7 @@ pathdiff = "0.2.0"
 snap = "1"
 smallvec = { version = "1.6.1", features = ["union", "may_dangle"] }
 regex = "1.4"
+libloading = "0.7.1"
 
 rustc_serialize = { path = "../rustc_serialize" }
 rustc_arena = { path = "../rustc_arena" }
